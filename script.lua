@@ -1,1 +1,1 @@
-print(game:GetService("Players").LocalPlayer.Name .. " is a femboy")
+print(game.Players.LocalPlayer.Name .. " is a proud tranny! :3")
